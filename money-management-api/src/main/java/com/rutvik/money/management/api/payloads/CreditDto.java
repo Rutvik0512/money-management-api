@@ -22,5 +22,11 @@ public class CreditDto {
 	private Date createdDate;
 	
 	private String productName;
+	
+	private double longitude;
+		
+	 private double latitude;
+		
+	 private String address;
 
 }
